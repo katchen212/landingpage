@@ -3,10 +3,3 @@ $(document).ready(function(){
  
 })
 
-/*header style*/
-.header{
- background-image: url('../images/headerback.jpg');
- background-attachment: fixed;
- background-size: cover;
- background-position: center;
-}
